@@ -1,0 +1,77 @@
+/*
+* @Author: Marte
+* @Date:   2016-11-15 16:51:59
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-11-16 14:29:31
+*/
+#prod{
+    width:1000px;height:880px;background-position:center;position:relative;margin:5px auto;}
+.www span{
+     font-size:20px;
+     font-weight:bold;
+      line-height:50px;
+      padding-left: 50px;
+ }
+ .www{
+    width:300px;
+    height:50px;
+    padding-left:297px ;
+ }
+#weizhi2{
+    width:100%;
+    height:32px;
+    margin-top: 10px;
+    margin-left:12px;
+}
+#qqz{
+     font-weight:bold;
+     font-size:17px;}
+.tutu{
+    width:620px;
+    height:750px;
+    margin:5px auto;
+     background-position:center;margin:0px auto;
+}
+.uu-1{
+    width:532px;
+    height: 84px;
+    margin:0  auto;
+}
+
+.uu-1>ul li{
+    float: left;
+    width:84px;
+    height:84px;
+    background-image: url(../product-img/ico_none.gif);
+    margin-left:10px;
+    margin-top:10px;
+  background-image
+}
+#x1{
+    width:13px;
+    height:43px;
+    margin-top:20px;
+    background-image:url(../product-img/ico_left.gif);
+}
+#x2{
+    width:13px;
+    height:43px;
+    margin-top:20px;
+    background-image:url(../product-img/ico_right.gif);
+}
+#x{
+ height: 57px;
+width: 75px;
+margin: 4px 4px;
+}
+.sc:hover{
+
+ background-image: url(../product-img/ico_bg.gif);
+}
+.uu-2{
+    width:605px;
+    height: 608px;
+  margin: 33px 6px;
+     background:#ffffff;
+}
+

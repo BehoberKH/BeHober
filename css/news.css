@@ -1,0 +1,234 @@
+/*至此开始为Main主体内容*/
+.main{width:1000px;height:950px;background:#fff;background-position:center;position:relative;margin:5px auto;}
+
+.big-left{height:100%;width:650px;float:left;}
+#weizhi1{
+    width:100%;
+    height:32px;
+    margin-top:10px;
+    margin-left:15px;
+}
+#qqssss{
+     font-weight:bold;
+     font-size:18px;
+}
+
+.zhong{
+    width:100%;
+    height:710px;
+    margin:5px auto;
+}
+
+#zhong-list>li{
+    height:80px;
+    width:666px;
+    padding-left:5px;
+    padding-top:10px;
+    color:535353;
+    border-bottom: 1px dashed #b4b4b4;
+}
+#zhong-list li >div{
+    float: left;
+
+}
+
+.tupian{
+   width:63px;
+   height:51px;
+   padding-top:15px;
+   background-image: url(../news-img/libg11.gif);
+
+}
+.zhong ul li:hover .tupian {
+    background-position:0 -66px;
+    color:#FEFFFF;
+}
+
+
+
+
+/*ziti*/
+
+.tupian>span{
+font-size: 28px;
+margin: 0px -8px 1px;
+   text-align:center;
+   font-weight:bold;
+
+
+}
+.tupian>p{
+    font-size:12px;
+  margin-left:7px;
+}
+/*文字*/
+ .wenzi
+ {
+    color:#000;
+    height:66px;
+    width:570px;
+    margin-left: 5px;
+    font-size:13px;
+   /*  overflow-y: auto; */
+  /*  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2; */
+   overflow: hidden;
+   white-space: nowrap;
+    text-overflow: ellipsis;
+ }
+
+ .wenzi>p
+ {
+    font-weight:bold;
+ }
+/*class=xia*/
+.xia{
+    width:600px;
+    height:50px;
+    margin:38px 24px;
+}
+.xia ul li a{
+    color:#d7d7d7;
+}
+.xia ul li:hover{
+   background-color:#d20000;
+}
+.s1{
+
+    width:57px;
+    height:25px;
+    float: left;
+    margin-top: 10px;
+    border:1px solid;
+    color: #d7d7d7;
+    padding-left:10px;
+    padding-top:5px;
+    margin-left:8px;
+
+}
+.s2{
+    margin-left:8px;
+    width:20px;
+     padding-top:5px;
+    height:25px;
+     padding-left:10px;
+     float: left;
+    margin-top: 10px;
+      color: #d7d7d7;
+    border:1px solid;
+}
+
+.xia ul{
+    width:100%;
+    height:100%;
+}
+/*右边*/
+.big-right{
+  height:100%;
+  width:340px;
+  float:right;
+  font-size:14px;
+}
+.v{
+    background:url(../news-img/libg16.gif) no-repeat;;
+    width:291px;
+    height:36px;
+ margin-top:35px;
+ margin-left:25px;
+
+}
+.r-1{
+  height:370px;
+  width:300px;
+  margin:4px 25px;
+
+}
+.r-1>div{
+  float: left;
+   padding-top:15px;
+}
+.suo-1{
+    height:97px;
+    width:122px;
+      margin:1px 4px;
+    border:3px solid #c9c9c9;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+#suo{
+   height: 129px;
+width: 130px;
+margin-left: 10px;
+}
+.suo-2 p{
+  margin-left: 10px;
+  margin-top:6px;
+}
+#suo:hover p {
+     color:red;
+
+}
+
+#suo:hover div{
+   border-color:#f1efef;
+}
+.big-right span{
+  margin-left:37px;
+  font-size:18px;
+  color:#fff;
+  line-height:30px;
+  font-<integer>:500;
+}
+
+
+.r-2{
+width:300px;
+height:350px;
+margin:4px 25px;
+
+}
+.v1{
+  background:url(../news-img/libg16.gif) no-repeat;;
+ width: 253px;
+height: 36px;
+margin-top: 92px;
+margin-left: 0;
+}
+
+#r-ul div{
+  background:url(../news-img/dian_03.png) no-repeat;
+}
+#r-ul li >div{
+
+  height:32px;
+}
+#r-ul li p{
+   line-height:30px;
+margin-top: 13px;
+margin-left: 27px;
+}
+#r-ul li:hover{
+  color:#fff;
+     background-color:#cd0000;
+}
+#r-ul li:hover div{
+   opacity:0.5;
+   background:url(../news-img/xxs_03.png) no-repeat;
+}
+#home{
+  border:1px solid;
+    color: #d7d7d7;
+    width: 106px;
+   height: 27px;
+   line-height:30px;
+   margin-left: 190px;
+margin-top: -9px;
+
+}
+#home a p{
+   color:#ffffff;
+   background:#b4b4b4;
+}
